@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/yourUserName/YourProjectName">
   </a>
-  <h3 align="center">cards</h3>
+  <h3 align="center">Algorithim_question</h3>
 
   <p align="center">
     this project will give you arangments from numbers to shapes
