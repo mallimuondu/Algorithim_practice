@@ -42,12 +42,9 @@ You can:
 
 ### List of algorithims
 
-Add the various things that you are working on. 
+this the algorithims i am doing
+- [a.deck of algorithims]
 
-- [ ] 1.deck of cards
-- [ ] 2.aranging numbers
-- [ ] 3.aranging shapes
-- [ ] 4.arenging letters
 
 
 
