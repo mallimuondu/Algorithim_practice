@@ -43,7 +43,7 @@ You can:
 ### List of algorithims
 
 this the algorithims i am doing
-- [a.deck of algorithims]
+- [a.deck of cards](https://github.com/mallimuondu/Algorithim_practice/blob/main/deck_of_cards.py)
 
 
 
