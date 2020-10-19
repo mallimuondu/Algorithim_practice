@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/yourUserName/YourProjectName">
   </a>
-  <h3 align="center">Algorithim_question</h3>
+  <h3 align="center">Algorithim_Practice</h3>
 
   <p align="center">
     this project will give you arangments from numbers to shapes
@@ -40,7 +40,7 @@ You can:
     
     b.on terminal you write python3 deck of cards.py
 
-### To Do List
+### List of algorithims
 
 Add the various things that you are working on. 
 
