@@ -44,10 +44,10 @@ You can:
 
 Add the various things that you are working on. 
 
-- [ ] putting leters
-- [ ] puting numbers
-- [ ] puting shapes
-- [ ] arenging cards
+- [ ] 1.deck of cards
+- [ ] 2.aranging numbers
+- [ ] 3.aranging shapes
+- [ ] 4.arenging letters
 
 
 
